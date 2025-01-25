@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Raj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
 
 # 💥 About Me:
 - 🌾 I’m currently working on Full Stack Projects<br>
